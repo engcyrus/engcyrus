@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Jonathan Cyrus
 
-Sou um **Desenvolvedor de Software** com mais de 20 anos de experiência em **manutenção de computadores** e **desenvolvimento de software**. Atualmente, estou cursando duas graduações: **Engenharia de Software** e **Tecnologia em Banco de Dados**.
+Sou um **Desenvolvedor de Software** com mais de 20 anos de experiência em **manutenção de computadores** . Atualmente, estou cursando duas graduações: **Engenharia de Software** e **Tecnologia em Banco de Dados**.
 
 Minha trajetória profissional sempre foi marcada pelo desejo de criar soluções práticas e eficientes que façam a diferença. Ao longo dos anos, desenvolvi um conhecimento aprofundado em hardware, software e eletrônica, mas agora estou expandindo ainda mais meu repertório para incluir **desenvolvimento de software de alta qualidade** e **inovação tecnológica**.
 
